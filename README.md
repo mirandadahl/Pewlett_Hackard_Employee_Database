@@ -1,4 +1,4 @@
-# Pewlett_Hackard_Employee_Database_SQL
+# Pewlett_Hackard_Employee_Database
 
 ## Overview:
 
