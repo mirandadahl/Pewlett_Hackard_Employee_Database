@@ -1,4 +1,4 @@
-## Pewlett Hackard Employee Database
+# Pewlett Hackard Employee Database
 
 ## Overview:
 
